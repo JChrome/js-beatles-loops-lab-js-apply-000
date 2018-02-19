@@ -14,7 +14,7 @@ function johnLennonFacts(facts){
   var total = [];
   var i = 0;
   for (i = 0; i < facts.length; i++){
-    mainFact = fact[i]
+    mainFact = facts[i]
     newFact = `${mainFact}!!!`
     total.push(newFact)
   }
