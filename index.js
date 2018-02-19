@@ -19,5 +19,4 @@ function johnLennonFacts(facts){
     total.push(newFact)
   }
   return total;
-  
 }
